@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "Old Standard TT";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../font/OldStandardTT-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Crimson Text";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../font/CrimsonText-Regular.ttf") format("truetype");
+}
+
+body.capitulo {
+  margin: 1em;
+  padding: 0;
+  line-height: 1.5em;
+  font-size: 100%;
+  font-family: "Crimson Text";
+}
+
+.titulo-capitulo {
+  font-family: "Old Standard TT";
+  font-size: 1.8em;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+  break-before: page;
+}
+
+.paragrafo.inicial {
+  text-indent: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.paragrafo {
+  text-indent: 1.2em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.dialogo {
+  text-indent: 0;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.titulo-final {
+  font-family: "Old Standard TT";
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 4em;
+  margin-bottom: 4em;
+  text-indent: 0;
+  break-after: page;
+  text-align: center;
+}

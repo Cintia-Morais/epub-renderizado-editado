@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0"
+	xmlns="http://www.idpf.org/2007/opf"
+	unique-identifier="bookid"
+	xml:lang="pt-BR"
+	prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 20.5" />
+		<meta name="cover" content="cover-image" />
+		<dc:title>TRÊS ANOS DE SILÊNCIO</dc:title>
+		<dc:date>2025-11-04T01:15:50Z</dc:date>
+		<dc:language>pt-BR</dc:language>
+		<meta property="dcterms:modified">2025-11-04T01:15:50Z</meta>
+		<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+	</metadata>
+
+	<manifest>
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
+		<item id="cover-image" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="cover-image" href="image/capa_final.png" media-type="image/png"
+			properties="cover-image" />
+
+		<item id="c0" href="TR_S_ANOS_DE_SIL_NCIO.xhtml" media-type="application/xhtml+xml" />
+		<item id="c1" href="TR_S_ANOS_DE_SIL_NCIO-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="c2" href="TR_S_ANOS_DE_SIL_NCIO-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="c3" href="TR_S_ANOS_DE_SIL_NCIO-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="c4" href="TR_S_ANOS_DE_SIL_NCIO-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="c5" href="TR_S_ANOS_DE_SIL_NCIO-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="c6" href="TR_S_ANOS_DE_SIL_NCIO-9.xhtml" media-type="application/xhtml+xml" />
+		<item id="c7" href="TR_S_ANOS_DE_SIL_NCIO-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="c8" href="TR_S_ANOS_DE_SIL_NCIO-11.xhtml" media-type="application/xhtml+xml" />
+		<item id="c9" href="TR_S_ANOS_DE_SIL_NCIO-12.xhtml" media-type="application/xhtml+xml" />
+		<item id="c10" href="TR_S_ANOS_DE_SIL_NCIO-13.xhtml" media-type="application/xhtml+xml" />
+		<item id="c11" href="TR_S_ANOS_DE_SIL_NCIO-14.xhtml" media-type="application/xhtml+xml" />
+		<item id="c12" href="TR_S_ANOS_DE_SIL_NCIO-15.xhtml" media-type="application/xhtml+xml" />
+		<item id="c13" href="TR_S_ANOS_DE_SIL_NCIO-16.xhtml" media-type="application/xhtml+xml" />
+		<item id="c14" href="TR_S_ANOS_DE_SIL_NCIO-17.xhtml" media-type="application/xhtml+xml" />
+		<item id="c15" href="TR_S_ANOS_DE_SIL_NCIO-18.xhtml" media-type="application/xhtml+xml" />
+		<item id="c16" href="TR_S_ANOS_DE_SIL_NCIO-19.xhtml" media-type="application/xhtml+xml" />
+		<item id="c17" href="TR_S_ANOS_DE_SIL_NCIO-20.xhtml" media-type="application/xhtml+xml" />
+		<item id="c18" href="TR_S_ANOS_DE_SIL_NCIO-21.xhtml" media-type="application/xhtml+xml" />
+		<item id="c19" href="TR_S_ANOS_DE_SIL_NCIO-22.xhtml" media-type="application/xhtml+xml" />
+		<item id="c20" href="TR_S_ANOS_DE_SIL_NCIO-23.xhtml" media-type="application/xhtml+xml" />
+		<item id="c21" href="TR_S_ANOS_DE_SIL_NCIO-24.xhtml" media-type="application/xhtml+xml" />
+		<item id="c22" href="TR_S_ANOS_DE_SIL_NCIO-25.xhtml" media-type="application/xhtml+xml" />
+		<item id="c23" href="TR_S_ANOS_DE_SIL_NCIO-26.xhtml" media-type="application/xhtml+xml" />
+		<item id="c24" href="TR_S_ANOS_DE_SIL_NCIO-27.xhtml" media-type="application/xhtml+xml" />
+		<item id="c25" href="TR_S_ANOS_DE_SIL_NCIO-28.xhtml" media-type="application/xhtml+xml" />
+		<item id="c26" href="TR_S_ANOS_DE_SIL_NCIO-29.xhtml" media-type="application/xhtml+xml" />
+		<item id="c27" href="TR_S_ANOS_DE_SIL_NCIO-30.xhtml" media-type="application/xhtml+xml" />
+		<item id="c28" href="TR_S_ANOS_DE_SIL_NCIO-31.xhtml" media-type="application/xhtml+xml" />
+		<item id="c29" href="TR_S_ANOS_DE_SIL_NCIO-32.xhtml" media-type="application/xhtml+xml" />
+		<item id="c30" href="TR_S_ANOS_DE_SIL_NCIO-33.xhtml" media-type="application/xhtml+xml" />
+		<item id="c31" href="TR_S_ANOS_DE_SIL_NCIO-34.xhtml" media-type="application/xhtml+xml" />
+
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="nav" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+
+		<item id="style" href="css/estilos.css" media-type="text/css" />
+		<item id="cover-style" href="css/cover.css" media-type="text/css" />
+
+
+		<item id="font_alexbrush" href="font/AlexBrush-Regular.ttf"
+			media-type="application/vnd.ms-opentype" />
+		<item id="font_minionpro" href="font/MinionPro-Regular.otf"
+			media-type="application/vnd.ms-opentype" />
+		<item id="font_oldstandard" href="font/OldStandardTT-Bold.ttf"
+			media-type="application/vnd.ms-opentype" />
+		<item id="font_crimsontext" href="font/CrimsonText-Regular.ttf"
+			media-type="application/vnd.ms-opentype" />
+
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no" />
+		<itemref idref="nav" />
+		<itemref idref="c0" />
+		<itemref idref="c1" />
+		<itemref idref="c2" />
+		<itemref idref="c3" />
+		<itemref idref="c4" />
+		<itemref idref="c5" />
+		<itemref idref="c6" />
+		<itemref idref="c7" />
+		<itemref idref="c8" />
+		<itemref idref="c9" />
+		<itemref idref="c10" />
+		<itemref idref="c11" />
+		<itemref idref="c12" />
+		<itemref idref="c13" />
+		<itemref idref="c14" />
+		<itemref idref="c15" />
+		<itemref idref="c16" />
+		<itemref idref="c17" />
+		<itemref idref="c18" />
+		<itemref idref="c19" />
+		<itemref idref="c20" />
+		<itemref idref="c21" />
+		<itemref idref="c22" />
+		<itemref idref="c23" />
+		<itemref idref="c24" />
+		<itemref idref="c25" />
+		<itemref idref="c26" />
+		<itemref idref="c27" />
+		<itemref idref="c28" />
+		<itemref idref="c29" />
+		<itemref idref="c30" />
+		<itemref idref="c31" />
+	</spine>
+	<guide>
+		<reference type="cover" href="cover.xhtml" />
+	</guide>
+</package>

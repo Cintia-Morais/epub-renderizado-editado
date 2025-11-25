@@ -1,0 +1,151 @@
+@font-face {
+  font-family: "Alex Brush";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../font/AlexBrush-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Minion Pro";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../font/MinionPro-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Old Standard TT";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../font/OldStandardTT-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Crimson Text";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../font/CrimsonText-Regular.ttf") format("truetype");
+}
+
+body {
+  margin: 1.5em;
+  padding: 0;
+  font-family: serif;
+  line-height: 1.6;
+}
+
+.toc h1 {
+  font-family: "Old Standard TT";
+  font-size: 1.8em;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 1em;
+  padding: 0;
+}
+
+.toc ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  counter-reset: item;
+}
+
+.toc li {
+  font-family: "Old Standard TT";
+  margin: 0.5em 0;
+}
+
+.toc a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  padding-left: 0.5em;
+  font-size: 1.1em;
+}
+
+.toc a:hover {
+  text-decoration: underline;
+}
+
+.toc li::before {
+  content: counter(item ".") " ";
+  counter-increment: item;
+}
+
+.marcos {
+  margin-top: 3em;
+  border-top: 1px solid #ccc;
+  padding-top: 1.5em;
+}
+
+.marcos h2 {
+  font-family: "Old Standard TT";
+  font-size: 1.2em;
+  margin-top: 0;
+  margin-bottom: 1em;
+  font-weight: normal;
+  color: #666;
+}
+
+.marcos ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.marcos li {
+  margin: 0.5em 0;
+}
+
+.marcos a {
+  font-family: "Crimson Text";
+  text-decoration: none;
+  color: inherit;
+  font-style: italic;
+}
+
+.pagina-1 {
+  padding: 1em;
+  margin: 0;
+  line-height: 1.4;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.cover-container {
+  margin: 2em 0 1.5em 0;
+  padding: 0;
+}
+
+.imagem-principal {
+  max-width: 80%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  margin-top: 8px;
+  border: none;
+}
+
+.bloco-texto-principal {
+  margin-top: 1.5em;
+  padding: 0 1em;
+}
+
+.titulo-principal {
+  font-family: "Old Standard TT";
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  color: #000;
+}
+
+.subtitulo {
+  font-family: "Crimson Text";
+  font-style: italic;
+  font-size: 1.2em;
+  margin-top: 0;
+  color: #333;
+}

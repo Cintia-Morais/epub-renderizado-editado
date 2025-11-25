@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+
+	<head>
+		<meta name="dtb:uid" content="urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b" />
+		<meta name="dtb:depth" content="0" />
+		<meta name="dtb:totalPageCount" content="0" />
+		<meta name="dtb:maxPageNumber" content="0" />
+	</head>
+
+	<docTitle>
+		<text>TRÊS ANOS DE SILÊNCIO</text>
+	</docTitle>
+
+	<navMap>
+		<navPoint id="nav0" playOrder="1">
+			<navLabel>
+				<text>Título</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav1" playOrder="2">
+			<navLabel>
+				<text>Capítulo 1 - Sinopse</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-1.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav2" playOrder="3">
+			<navLabel>
+				<text>Capítulo 2 - O Aniversário Silencioso</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-5.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav3" playOrder="4">
+			<navLabel>
+				<text>Capítulo 3 - O Peso do Silêncio</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-6.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav4" playOrder="5">
+			<navLabel>
+				<text>Capítulo 4 - O Elo Inesperado e o Preço da Liberdade</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-7.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav5" playOrder="6">
+			<navLabel>
+				<text>Capítulo 5 - O Clube dos Cínicos e a Obra de Arte</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-8.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav6" playOrder="7">
+			<navLabel>
+				<text>Capítulo 6 - O Adeus Silencioso e o Abraço Perdido</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-9.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav7" playOrder="8">
+			<navLabel>
+				<text>Capítulo 7 - A Notícia em Londres e o Voo da Esperança</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-10.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav8" playOrder="9">
+			<navLabel>
+				<text>Capítulo 8 - O Retorno de Luna e o Ruído do Caos</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-11.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav9" playOrder="10">
+			<navLabel>
+				<text>Capítulo 9 - O Café, o Reencontro e o Contraste</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-12.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav10" playOrder="11">
+			<navLabel>
+				<text>Capítulo 10 - O Adeus Agridoce e o Preço da Desordem</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-13.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav11" playOrder="12">
+			<navLabel>
+				<text>Capítulo 11 - O Confronto no Estúdio e o Grito de Liberdade</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-14.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav12" playOrder="13">
+			<navLabel>
+				<text>Capítulo 12 - O Brilho da Constelação e a Aliança Familiar</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-15.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav13" playOrder="14">
+			<navLabel>
+				<text>Capítulo 13 - A Proposta Falsa e o Jogo de Xadrez</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-16.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav14" playOrder="15">
+			<navLabel>
+				<text>Capítulo 14 - O Gesto de Carlos e a Primeira Dança</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-17.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav15" playOrder="16">
+			<navLabel>
+				<text>Capítulo 15 - O Jantar Forçado e o Rompimento Caótico</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-18.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav16" playOrder="17">
+			<navLabel>
+				<text>Capítulo 16 - O Primeiro Beijo e o Observador nas Sombras</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-19.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav17" playOrder="18">
+			<navLabel>
+				<text>Capítulo 17 - O Nó na Cadeia de Suprimentos e o Contra-Ataque de Luana</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-20.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav18" playOrder="19">
+			<navLabel>
+				<text>Capítulo 18 - O Ultimato do Patriarca e a Tática Desesperada</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-21.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav19" playOrder="20">
+			<navLabel>
+				<text>Capítulo 19 - O Encontro no Lago e a Chantagem Desmascarada</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-22.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav20" playOrder="21">
+			<navLabel>
+				<text>Capítulo 20 - A Cura da Culpa e a Decisão de Gabriel</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-23.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav21" playOrder="22">
+			<navLabel>
+				<text>Capítulo 21 - O Lançamento e a Determinação Obscura</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-24.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav22" playOrder="23">
+			<navLabel>
+				<text>Capítulo 22 - A Agenda de Casamento e a Obsessão Corporativa</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-25.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav23" playOrder="24">
+			<navLabel>
+				<text>Capítulo 23 - O Bloqueio do Fornecedor e o Primeiro Contato</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-26.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav24" playOrder="25">
+			<navLabel>
+				<text>Capítulo 24 - A Reunião de Negócios e o Preço da Compra</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-27.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav25" playOrder="26">
+			<navLabel>
+				<text>Capítulo 25 - A Viagem de Gabriel e o Gesto Anônimo</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-28.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav26" playOrder="27">
+			<navLabel>
+				<text>Capítulo 26 - A Ausência e o Olhar Observador</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-29.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav27" playOrder="28">
+			<navLabel>
+				<text>Capítulo 27 - A Ascensão de Diego e o Fim da Dívida Emocional</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-30.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav28" playOrder="29">
+			<navLabel>
+				<text>Capítulo 28 - Triunfo em Milão e a Sombra da Insinuação</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-31.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav29" playOrder="30">
+			<navLabel>
+				<text>Capítulo 29 - A Investigação e a Repreensão do Patriarca</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-32.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav30" playOrder="31">
+			<navLabel>
+				<text>Capítulo 30 - A Verdade Inatacável e o Adeus Público</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-33.xhtml" />
+		</navPoint>
+
+		<navPoint id="nav31" playOrder="32">
+			<navLabel>
+				<text>Capítulo 31 - O Triunfo da Liberdade e o Silêncio Final</text>
+			</navLabel>
+			<content src="TR_S_ANOS_DE_SIL_NCIO-34.xhtml" />
+		</navPoint>
+	</navMap>
+</ncx>
